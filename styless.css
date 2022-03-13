@@ -1,0 +1,15 @@
+.h1 {
+  background: red;
+  color: blue;
+  text-align-last: center;
+  text-transform: uppercase;
+  border-radius: 20px;
+}
+
+.h2 {
+  color: red;
+  background: blue;
+  text-align: center;
+  border-style: dotted;
+  border-radius: 20px;
+}
